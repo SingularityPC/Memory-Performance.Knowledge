@@ -1,2 +1,7 @@
 - [How Do Memory Timings Work?](https://youtu.be/Yed-a9vqTYc)
 - [What Are Memory Timings? CAS Latency, tRCD, tRP, & tRAS (Pt 1)](https://youtu.be/o59V3_4NvPM)
+- [RAM timings explained 0](https://youtu.be/105IJiGbGsg)
+- [DDR4 timings explained: tRRD & tFAW // THE MOST IMPORTANT MEMORY TIMINGS](https://youtu.be/IyLJCLoOjdg)
+- [Speed (MHz) Vs Latency (CL) Vs Capacity (GB) | How to Choose RAM](https://youtu.be/zUeyACohYWE)
+- [How does Computer Memory Work? 💻🛠](https://youtu.be/7J7X7aZvMXQ)
+- [RANT: THE CAS LATENCY TIMING DOESN'T MATTER AS MUCH AS YOU THINK IT DOES](https://youtu.be/pgb8N23tsfA)
