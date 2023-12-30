@@ -1,2 +1,2 @@
 - [How Do Memory Timings Work?](https://youtu.be/Yed-a9vqTYc)
-- 
+- [What Are Memory Timings? CAS Latency, tRCD, tRP, & tRAS (Pt 1)](https://youtu.be/o59V3_4NvPM)
