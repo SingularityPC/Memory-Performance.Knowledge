@@ -1,0 +1,2 @@
+- [How Do Memory Timings Work?](https://youtu.be/Yed-a9vqTYc)
+- 
